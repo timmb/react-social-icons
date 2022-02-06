@@ -1,3 +1,4 @@
+import React from 'react';
 import { socialSvgContent } from './styles.js'
 
 // eslint-disable-next-line react/prop-types
